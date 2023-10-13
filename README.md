@@ -22,4 +22,20 @@
       <td>Google Dorking</td>
   </tr>
 </table>
-  Use different search engines and the site operator to search for vehicles that have been to a garage. site:www.myvehiclelive.com/ or site:www.myvehiclelive.com/OnlineEVHC/. You can also use the "Keyword" search operator too.
+  <p>Use different search engines and the site operator to search for vehicles that have been to a garage. site:www.myvehiclelive.com/ or site:www.myvehiclelive.com/OnlineEVHC/. You can also use the "Keyword" search operator too.</p>
+</br>
+  <table>
+    <tr>
+        <td>Vehicle Resources</td>
+    </tr>
+  </table>
+  <ul>
+   <li><a href="https://vehicleenquiry.service.gov.uk/">DVSA</a></li>
+    <p>Check if a vehicle is taxed and has an MOT.</p>
+  <li><a href="https://www.check-mot.service.gov.uk/">DVSA</a></li>  
+   <p>Check a vehicle's MOT history.</p>
+  <li><a href="https://www.car.co.uk/media/guides/number-plates/uk-number-plate-area-codes">Car.co.uk</a></li>  
+   <p>UK Number Plate Area Codes.</p>
+  <li><a href="https://fullcarchecks.co.uk/">Full Car Check</a></li> 
+   <p>Check if a car has ever been stolen, written off, has finance & more.</p>
+  </ul>
