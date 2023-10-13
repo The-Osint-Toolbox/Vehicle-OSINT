@@ -22,4 +22,4 @@
       <td>Google Dorking</td>
   </tr>
 </table>
-  Use different search engines and the site opeartor to search for vehicles that have been to a garage. site:www.myvehiclelive.com/ or site:www.myvehiclelive.com/OnlineEVHC/. You can also use the "Keyword" search operator too.
+  Use different search engines and the site operator to search for vehicles that have been to a garage. site:www.myvehiclelive.com/ or site:www.myvehiclelive.com/OnlineEVHC/. You can also use the "Keyword" search operator too.
