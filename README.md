@@ -1,6 +1,6 @@
 # Vehicle-OSINT
 <p align="center">
-  <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
+  <img width="250" height="175" src="https://www.cqcore.uk/wp-content/uploads/2024/06/Screenshot-2024-06-13-122030.png">
 </p>
 <p>On this page you will find resources and links to vehicle OSINT mainly focused on the UK
 </p>
@@ -39,4 +39,6 @@
    <p>UK Number Plate Area Codes.</p>
   <li><a href="https://fullcarchecks.co.uk/">Full Car Check</a></li> 
    <p>Check if a car has ever been stolen, written off, has finance & more.</p>
+  <li><a href="https://enquiry.navigate.mib.org.uk/checkyourvehicle">MID</a></li>
+   <p>UK motor insurance database.</p>
   </ul>
