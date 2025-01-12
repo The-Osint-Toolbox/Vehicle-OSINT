@@ -3,6 +3,17 @@
   <img width="250" height="175" src="https://www.cqcore.uk/wp-content/uploads/2024/06/Screenshot-2024-06-13-122030.png">
 </p>
 <p>On this page you will find resources and links to vehicle OSINT mainly focused on the UK
+</br>
+<table>
+  <tr>
+      <td>Number Plate Recognition</td>
+  </tr>
+</table>
+</br>
+<ul>
+  <li><a href="https://deflock.me/">DeFlock</a></li>
+  <li><a href="https://github.com/FoggedLens/deflock">GitHub Deflcok</a></li>
+</ul>
 </p>
 <table>
   <tr>
