@@ -41,4 +41,6 @@
    <p>Check if a car has ever been stolen, written off, has finance & more.</p>
   <li><a href="https://enquiry.navigate.mib.org.uk/checkyourvehicle">MID</a></li>
    <p>UK motor insurance database.</p>
+  <li><a href="https://www.partialnumberplate.co.uk/">Partial VRM Check</a></li> 
+   <p>Need to find a UK registration plate but don't know all of the characters?</p>
   </ul>
