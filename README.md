@@ -4,6 +4,15 @@
 <br></br>
 <p>On this page you will find resources and links to vehicle OSINT mainly focused on the UK
 <br></br>
+<table>  
+  <tr>
+      <td>AI/td>
+  </tr>
+</table>
+<ul>
+  <li><a href="https://vehicle-ai.vercel.app/">Vehicle AI</a></li>
+</ul>
+<br></br>
 <table>
   <tr>
       <td>Number Plate Recognition</td>
