@@ -6,7 +6,7 @@
 <br></br>
 <table>  
   <tr>
-      <td>AI/td>
+      <td>AI</td>
   </tr>
 </table>
 <ul>
