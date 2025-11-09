@@ -58,6 +58,8 @@
    <p>UK Number Plate Area Codes.</p>
   <li><a href="https://fullcarchecks.co.uk/">Full Car Check</a></li> 
    <p>Check if a car has ever been stolen, written off, has finance & more.</p>
+   <li><a href="https://lisense.uk/search">Lisense</a></li> 
+   <p>Free partial license plate lookup with wildcard search - find vehicles using incomplete UK registration numbers.</p>
   <li><a href="https://enquiry.navigate.mib.org.uk/checkyourvehicle">MID</a></li>
    <p>UK motor insurance database.</p>
   <li><a href="https://www.partialnumberplate.co.uk/">Partial VRM Check</a></li> 
